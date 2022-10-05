@@ -6,9 +6,9 @@ benchmark dataset for facade semantic segmentation
 
 ### 1. Dataset Description
 
-Datasets contain varying number of images (.jpg) 
+Datasets contain varying number of images (\*.jpg) 
 suitable for MVS reconstruction and corresponding 
-GT labels (_l.png)
+GT labels (\*_l.png)
 
 |Dataset name  |  original resolution  | camera name |
 |--|--|--|
