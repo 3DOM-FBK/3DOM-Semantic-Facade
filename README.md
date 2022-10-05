@@ -96,4 +96,4 @@ If you use this dataset for your research, please cite our articles:
     
 _________________________________________________________________________
 ### 4. License
-The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) .
+The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
