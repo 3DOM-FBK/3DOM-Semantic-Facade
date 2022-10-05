@@ -8,8 +8,11 @@ Benchmark dataset for facade semantic segmentation.
 _________________________________________________________________________
 ### 1. Dataset Description
 
-<p>We present a new real-world, densely-annotated, semantic segmentation benchmark for (historic) building facades.
-Sequences contain high-resolution images across various cities in Italy. They depict historic building facades from the street level. The buildings, although of similar height, feature a significant diversity in architectural styles and structural characteristics spreading from traditional historic center buildings to cathedrals.</p>
+We present a new real-world, densely-annotated, semantic segmentation benchmark for (historic) building facades that can sbe useful: 
+1. for training ML/DL algorithms and 
+2. image-based 3D reconstruction (SfM/MVS). 
+
+The sequences contain high-resolution images across various cities in Italy. They depict historic building facades from the street level. The buildings, although of similar height, feature a significant diversity in architectural styles and structural characteristics spreading from traditional historic center buildings to cathedrals.
 
 The number of images for each sequence varies. RGB images are in \*.jpg format and are
 suitable for MVS reconstruction. Corresponding pixel-level
