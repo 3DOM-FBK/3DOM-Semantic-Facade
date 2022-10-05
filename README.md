@@ -1,5 +1,5 @@
 # 3DOM-Semantic-Facade 
-benchmark dataset for facade semantic segmentation
+Benchmark dataset for facade semantic segmentation. 
 
 ![3DOM Semantic Facade dataset](3DOM_benchmark.png)
 
@@ -8,9 +8,12 @@ benchmark dataset for facade semantic segmentation
 _________________________________________________________________________
 ### 1. Dataset Description
 
-Datasets contain varying number of images (\*.jpg) 
-suitable for MVS reconstruction and corresponding 
-GT labels (\*_l.png)
+It is a new real-world, densely-annotated, semantic segmentation benchmark for (historic) building facades.
+Sequences contain high-resolution images across various cities in Italy. They depict historic building facades from the street level. The buildings, although of similar height, feature a significant diversity in architectural styles and structural characteristics spreading from traditional historic center buildings to cathedrals.
+
+The number of images for each sequence varies. RGB images are in \*.jpg format and are
+suitable for MVS reconstruction. Corresponding pixel-level
+GT labels  are named \*_l.png
 
 |Dataset name  |  original resolution  | camera name |
 |--|--|--|
@@ -29,7 +32,10 @@ Can be used for training purposes though.
 
 _________________________________________________________________________
 ### 2. Class nomenclature
-semantic labelling is performed manually.
+
+The dataset aims at a generic facade segmentation and identification of the basic components; each class should have a clear and unambiguous semantic meaning, while all classes should be unique with respect to their geometric characteristics and visual appearance. Therefore, five semantic classes were defined, namely “wall”, “sky”, “obstacle”, “window”, and “door”; the class “obstacle” includes all parts of the scene that are typically unwanted in photogrammetric scenarios, e.g., moving objects such as cars, bikes, and pedestrians, but also trees, vegetation, traffic signs, and the street itself. Such a nomenclature facilitates the isolation of objects considered noise, e.g., the sky and obstacles, while enabling the selective reconstruction of specific semantic classes of interest such as the facade walls or the openings “window” and “door”.
+
+Semantic labelling was performed manually in-house.
 Mixed color pixels occurring between class borders 
 are given (0,0,0) value, i.e., black.
 
