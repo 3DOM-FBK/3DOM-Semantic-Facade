@@ -26,8 +26,8 @@ GT labels  are named \*_l.png
 
 
 *Note:* Piazza Navona sequence is not suitable for 3D reconstruction 
-since images do not have sufficient overlap and some labels 
-refer to the undistorted version of the image. 
+since (1) images do not have sufficient overlap and (2) some labels 
+refer to the undistorted version of the image (\*_undistort.png). 
 Can be used for training purposes though. 
 
 _________________________________________________________________________
