@@ -48,7 +48,7 @@ If you use this dataset for your research, please cite our articles:
     
     @article{stathopoulou2019semantic,
       title={Semantic photogrammetry: boosting image-based 3D reconstruction with semantic labeling},
-      author={Stathopoulou, EK and Remondino, F},
+      author={Stathopoulou, Elisavet Konstantina and Remondino, Fabio},
       journal={International rchives of the hotogrammetry, emote sensing and patial information ciences},
       volume={42},
       number={2},
@@ -58,7 +58,7 @@ If you use this dataset for your research, please cite our articles:
     
     @article{stathopoulou2019multi,
       title={Multi-view stereo with semantic priors},
-      author={Stathopoulou, E-K and Remondino, F},
+      author={Stathopoulou, Elisavet Konstantina and Remondino, Fabio},
       journal={International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
       volume={42},
       number={2/W15},
