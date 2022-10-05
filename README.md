@@ -5,6 +5,7 @@ benchmark dataset for facade semantic segmentation
 
 [Benchmark data](https://drive.google.com/drive/folders/1kZeNVL6-TL5oGuZfjj5wjPdxldvX_88J?usp=sharing)
 
+_________________________________________________________________________
 ### 1. Dataset Description
 
 Datasets contain varying number of images (\*.jpg) 
@@ -26,7 +27,7 @@ since images do not have sufficient overlap and some labels
 refer to the undistorted version of the image. 
 Can be used for training purposes though. 
 
-
+_________________________________________________________________________
 ### 2. Class nomenclature
 semantic labelling is performed manually.
 Mixed color pixels occurring between class borders 
@@ -40,7 +41,7 @@ are given (0,0,0) value, i.e., black.
 | sky |(255,255,0)|
 | obstacle  |(255,0,0) |
 
-
+_________________________________________________________________________
 ### 3. Credits
 This dataset is publicly available for research purposes.
 If you use this dataset for your research, please cite our articles:
