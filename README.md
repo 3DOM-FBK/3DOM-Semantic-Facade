@@ -1,5 +1,5 @@
 # 3DOM-Semantic-Facade 
-#### benchmark dataset for facade semantic segmentation
+benchmark dataset for facade semantic segmentation
 
 
 ### 1. Dataset Description
