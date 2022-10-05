@@ -41,7 +41,8 @@ are given (0,0,0) value, i.e., black.
 | obstacle  |(255,0,0) |
 
 
-
+### 3. Credits
+This dataset is publicly available for research purposes.
 If you use this dataset for your research, please cite our articles:
 
    
