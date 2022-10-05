@@ -16,7 +16,7 @@ The sequences contain 227 high-resolution images across various cities in Italy.
 
 The number of images for each sequence varies. RGB images are in \*.jpg format and are
 suitable for MVS reconstruction. Corresponding pixel-level
-GT labels  are named \*_l.png
+GT labels are named \*_l.png
 
 |Dataset name  |  original resolution  | camera name |
 |--|--|--|
@@ -30,7 +30,7 @@ GT labels  are named \*_l.png
 
 *Note:* Piazza Navona sequence is not suitable for 3D reconstruction 
 since (1) images do not have sufficient overlap and (2) some labels 
-refer to the undistorted version of the image (\*_undistort.png). 
+refer to the undistorted version of the image (\*_undistort.jpg). 
 Can be used for training purposes though. 
 
 _________________________________________________________________________
