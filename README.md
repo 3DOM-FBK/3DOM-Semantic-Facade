@@ -74,3 +74,10 @@ If you use this dataset for your research, please cite our articles:
       year={2021},
       publisher={Multidisciplinary Digital Publishing Institute}
     }
+    
+    @PhdThesis{stathopoulou2022PhD,
+      title={Integrating scene priors in Multiple View Stereo},
+      author={Stathopoulou, Elisavet Konstantina},
+      year={2022},
+      school={National Technical University of Athens}
+    }
