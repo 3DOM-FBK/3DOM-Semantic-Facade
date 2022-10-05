@@ -4,17 +4,19 @@
 
 ### 1. Dataset Description
 
-Datasets contain varying number of images (*jpg) 
+Datasets contain varying number of images (.jpg) 
 suitable for MVS reconstruction and corresponding 
-GT labels (*_l.png)
+GT labels (_l.png)
 
- (Name, original resolution, camera name)
+|Dataset name  |  original resolution  | camera name |
+|--|--|--|
+| [Albergati, Bologna Portici] |4608 x 3072 |NIKON D3100|
+| [Campidoglio, Chigi] |4416 x 3312 |Canon PowerShot G10|
+| [Lecce Duomo, Lecce Teatini] |6000 x 4000 |NIKON D5300|
+| Piazza Navona |4000 x 3000 |SAMSUNG ST45 (mobile)|
+| Piazza Trento Duomo |6048 x 4032 |NIKON D3X|
 
-[Albergati, Bologna Portici], 4608 x 3072, NIKON D3100
-[Campidoglio, Chigi],  4416 x 3312, Canon PowerShot G10
-Lecce Duomo, Teatini, 6000 x 4000, NIKON D5300
-Piazza Navona, 4000 x 3000, SAMSUNG ST45
-Piazza Trento Duomo, 6048 x 4032, NIKON D3X
+
 
 Piazza Navona class is not suitable for 3D reconstruction 
 since images do not have sufficient overlap and some labels 
