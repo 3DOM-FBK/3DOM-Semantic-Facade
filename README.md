@@ -20,7 +20,7 @@ GT labels (\*_l.png)
 
 
 
-Piazza Navona class is not suitable for 3D reconstruction 
+*Note:* Piazza Navona class is not suitable for 3D reconstruction 
 since images do not have sufficient overlap and some labels 
 refer to the undistorted version of the image. 
 Can be used for training purposes though. 
