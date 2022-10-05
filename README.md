@@ -2,7 +2,7 @@
 #### benchmark dataset for facade semantic segmentation
 
 
-### Dataset Description
+### 1. Dataset Description
 
 Datasets contain varying number of images (*jpg) 
 suitable for MVS reconstruction and corresponding 
@@ -20,6 +20,20 @@ Piazza Navona class is not suitable for 3D reconstruction
 since images do not have sufficient overlap and some labels 
 refer to the undistorted version of the image. 
 Can be used for training purposes though. 
+
+
+### 2. Class nomenclature
+semantic labelling is performed manually.
+Mixed color pixels occurring between class borders 
+are given (0,0,0) value, i.e., black.
+
+|class name  |  RGB values  |
+|--|--|
+| facade |(0,0,255) |
+| window |(0,255,0) |
+| door |(255,0,255) |
+| sky |(255,255,0)|
+| obstacle  |(255,0,0) |
 
 
 
