@@ -3,7 +3,7 @@ Benchmark dataset for facade semantic segmentation.
 
 ![3DOM Semantic Facade dataset](3DOM_benchmark.png)
 
-[Benchmark data](https://drive.google.com/drive/folders/1kZeNVL6-TL5oGuZfjj5wjPdxldvX_88J?usp=sharing)
+[Benchmark data](https://fbk.sharepoint.com/:f:/s/3DOM/Ei8kxB3CMdRNo8ODtwYc7soBeOYc0tDKTP20OpDiS-xevw?e=vemcrY)
 
 _________________________________________________________________________
 ### 1. Dataset Description
